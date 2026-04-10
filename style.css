@@ -149,3 +149,25 @@ body {
         transform: scale(1);
     }
 }
+@media (max-width: 600px) {
+
+    .title {
+        font-size: 30px;
+    }
+
+    .letter-box {
+        width: 90%;
+        font-size: 14px;
+    }
+
+    .photo {
+        width: 70px;
+        height: 70px;
+    }
+
+    .start-btn {
+        font-size: 16px;
+        padding: 12px 20px;
+    }
+
+}
